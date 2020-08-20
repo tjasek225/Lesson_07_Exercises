@@ -1,12 +1,9 @@
-﻿using System;
-
-namespace Lesson_07_Exercises.App
+﻿namespace Lesson_07_Exercises.App
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
